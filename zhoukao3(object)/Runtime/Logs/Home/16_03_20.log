@@ -1,0 +1,5 @@
+[ 2016-03-20T15:28:00+08:00 ] 127.0.0.1 /js(object)/zhoukao3/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+

@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+<a href="deng_del.php">退出登陆</a>
+<h1>列表展示</h1>
+<table border="1">
+    <tr>
+        <td>编号</td>
+        <td>开始时间</td>
+        <td>结束时间</td>
+        <td>请假天数</td>
+        <td>请假原因</td>
+        <td>文件</td>
+        <td>审批人</td>
+    </tr>
+        {foreach $list as $key=>$val}
+    <tr>
+        <td>{$val.id}</td>
+        <td>{$val.r_startdate}</td>
+        <td>{$val.r_overdate}</td>
+        <td>{$val.r_day}</td>
+        <td>{$val.r_why}</td>
+        <td><img src="{$val.r_files}" alt="" height="50" width="50"/></td>
+        <td>{$val.r_person}</td>
+    </tr>
+    {/foreach}
+</table>
+</body>
+</html>

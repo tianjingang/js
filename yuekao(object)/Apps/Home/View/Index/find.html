@@ -1,0 +1,21 @@
+<form>
+    <table border="1">
+        <tr>
+            <td>ID</td>
+            <td>今日完成工作</td>
+            <td>未完成工作</td>
+            <td>图片</td>
+           <td>发送人</td>
+        </tr>
+        <volist name="arr1" id="val">
+        <tr>
+            <td>{$val.id}</td>
+            <td>{$val.daywork}</td>
+            <td>{$val.message}</td>
+            <td><img src="__ROOT__/{$val.files}" alt="" height="80" width="80"/></td>
+            <td>{$val.sname}</td>
+        </tr>
+            </volist>
+    </table>
+    <a href="__URL__/index">返回</a>
+</form>
