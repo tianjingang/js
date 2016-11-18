@@ -1,0 +1,32 @@
+<form action="__URL__/update/" method="post" enctype="multipart/form-data">
+    <table border="1">
+        <tr>
+            <td>图片1</td>
+            <td><input type="file" name="photo1"/>
+            <img src="__ROOT__/{$arr.photo1}" height="80" width="80"/>
+            </td>
+        </tr>
+        <tr>
+            <td>图片2</td>
+            <td><input type="file" name="photo2"/>
+                <img src="__ROOT__/{$arr.photo2}" height="80" width="80"/>
+            </td>
+        </tr>
+        <tr>
+            <td>图片3</td>
+            <td><input type="file" name="photo3"/>
+                <img src="__ROOT__/{$arr.photo3}" height="80" width="80"/>
+            </td>
+        </tr>
+        <tr>
+            <td>图片4</td>
+            <td><input type="file" name="photo4"/>
+                <img src="__ROOT__/{$arr.photo4}" height="80" width="80"/>
+            </td>
+        </tr>
+        <tr>
+            <td><input type="hidden" name="id" value="{$arr.id}"/></td>
+            <td><input type="submit" value="修改"/></td>
+        </tr>
+    </table>
+</form>

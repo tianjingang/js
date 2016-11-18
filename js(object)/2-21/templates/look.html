@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+<form action="update.php" method="post" enctype="multipart/form-data">
+{foreach $list as $key=>$val}
+    <table border="1">
+        <tr>
+            <td>编号</td>
+            <td><input type="text" name="order" value="{$val.id}"/></td>
+        </tr>
+        <tr>
+            <td>文件名</td>
+            <td><input type="text" name="filename" value="{$val.r_filename}"></td>
+        </tr>
+        <tr>
+            <td>封面</td>
+            <td><input type="file" name="files" value="{$val.r_files}"/></td>
+        </tr>
+        <tr>
+            <td><input type="hidden" name="id" value="{$val.id}"/></td>
+            <td><input type="submit" value="修改"/></td>
+        </tr>
+    </table>
+    {/foreach}
+</form>
+</body>
+</html>

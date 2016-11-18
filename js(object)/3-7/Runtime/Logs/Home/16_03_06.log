@@ -1,0 +1,680 @@
+[ 2016-03-06T13:35:01+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000809s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000917s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000161s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006277s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006356s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000400s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000454s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000572s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000632s ]
+
+[ 2016-03-06T14:05:21+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+
+[ 2016-03-06T14:05:36+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+
+[ 2016-03-06T14:22:30+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+
+[ 2016-03-06T14:22:41+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Index/login_check/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+ERR: 非法操作:login_check
+
+[ 2016-03-06T14:25:18+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Index/login_check/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000901s ]
+ERR: 非法操作:login_check
+
+[ 2016-03-06T14:25:26+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+ERR: 模板不存在:./Apps/Home/View/Index/index.html
+
+[ 2016-03-06T14:27:37+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+ERR: 模板不存在:./Apps/Home/View/Index/index.html
+
+[ 2016-03-06T14:27:38+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+ERR: 模板不存在:./Apps/Home/View/Index/index.html
+
+[ 2016-03-06T14:27:56+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+ERR: 模板不存在:./Apps/Home/View/Index/index.html
+
+[ 2016-03-06T14:30:41+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000744s ]
+
+[ 2016-03-06T14:30:54+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Index/login_check/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+ERR: Think\Model:look方法不存在！
+
+[ 2016-03-06T14:32:38+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+ERR: 模板不存在:./Apps/Home/View/Index/login.html
+
+[ 2016-03-06T14:33:51+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+
+[ 2016-03-06T14:34:06+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Index/login_check/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+ERR: 非法操作:login_check
+
+[ 2016-03-06T14:51:16+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Index/login_check/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+ERR: 非法操作:login_check
+
+[ 2016-03-06T14:51:46+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Index/login_check/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+ERR: 非法操作:login_check
+
+[ 2016-03-06T14:51:49+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Index/login_check/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+ERR: 非法操作:login_check
+
+[ 2016-03-06T14:52:52+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+
+[ 2016-03-06T14:53:18+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+ERR: 模板不存在:./Apps/Home/View/Index/login.html
+
+[ 2016-03-06T14:53:31+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+ERR: 模板不存在:./Apps/Home/View/Index/login.html
+
+[ 2016-03-06T14:54:14+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+
+[ 2016-03-06T14:55:01+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+
+[ 2016-03-06T14:55:08+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+
+[ 2016-03-06T15:05:15+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+ERR: 模板不存在:./Apps/Home/View/Index/deng.html
+
+[ 2016-03-06T15:05:36+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+
+[ 2016-03-06T15:05:37+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+
+[ 2016-03-06T15:07:20+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+
+[ 2016-03-06T15:07:30+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Index/login_check/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000624s ]
+ERR: Think\Model:look方法不存在！
+
+[ 2016-03-06T15:10:27+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000660s ]
+
+[ 2016-03-06T15:10:28+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+
+[ 2016-03-06T15:10:28+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2016-03-06T15:10:29+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2016-03-06T15:10:31+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Index/login_check/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+
+[ 2016-03-06T15:12:17+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Index/login_check/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+ERR: Think\Model:look方法不存在！
+
+[ 2016-03-06T15:13:20+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Index/login_check/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+ERR: Think\Model:look方法不存在！
+
+[ 2016-03-06T15:13:25+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+
+[ 2016-03-06T15:13:27+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000649s ]
+
+[ 2016-03-06T15:13:28+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Index/login_check/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+ERR: Think\Model:look方法不存在！
+
+[ 2016-03-06T15:14:29+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Index/login_check/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+
+[ 2016-03-06T15:14:34+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Index/login_check/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+
+[ 2016-03-06T15:17:41+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Index/login_check/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+ERR: Think\Model:look方法不存在！
+
+[ 2016-03-06T15:19:44+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Index/login_check/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+
+[ 2016-03-06T15:20:16+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Index/login_check/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+
+[ 2016-03-06T15:21:36+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+
+[ 2016-03-06T15:21:45+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Index/login_check/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+ERR: Think\Model:look方法不存在！
+
+[ 2016-03-06T15:34:57+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+
+[ 2016-03-06T15:35:02+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Index/login_check/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+ERR: Think\Model:look方法不存在！
+
+[ 2016-03-06T19:52:08+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2016-03-06T19:52:24+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Index/login_check/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+ERR: Think\Model:look方法不存在！
+
+[ 2016-03-06T19:53:35+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Index/login_check/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+
+[ 2016-03-06T19:53:47+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Index/login_check/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+
+[ 2016-03-06T19:54:19+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Index/login_check/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+
+[ 2016-03-06T19:56:38+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Index/login_check/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000649s ]
+ERR: Think\Model:look方法不存在！
+
+[ 2016-03-06T19:57:04+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Index/login_check/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+
+[ 2016-03-06T19:57:08+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Index/login_check/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000763s ]
+
+[ 2016-03-06T20:46:32+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+
+[ 2016-03-06T20:46:58+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+
+[ 2016-03-06T20:47:00+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2016-03-06T20:48:02+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000600s ]
+
+[ 2016-03-06T20:48:10+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+
+[ 2016-03-06T20:49:22+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000707s ]
+
+[ 2016-03-06T20:49:32+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+
+[ 2016-03-06T20:50:38+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000951s ]
+
+[ 2016-03-06T20:50:56+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000710s ]
+
+[ 2016-03-06T20:51:40+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+
+[ 2016-03-06T20:52:36+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+
+[ 2016-03-06T20:52:39+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000711s ]
+ERR: 无法加载控制器:Login
+
+[ 2016-03-06T20:54:53+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+ERR: 无法加载控制器:Login
+
+[ 2016-03-06T20:54:54+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+ERR: 无法加载控制器:Login
+
+[ 2016-03-06T20:54:58+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+
+[ 2016-03-06T20:55:02+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Login/deng.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001241s ]
+ERR: 无法加载控制器:Login
+
+[ 2016-03-06T20:55:19+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Login/deng.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+ERR: 无法加载控制器:Login
+
+[ 2016-03-06T20:55:20+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Login/deng.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+ERR: 无法加载控制器:Login
+
+[ 2016-03-06T20:55:24+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+
+[ 2016-03-06T20:55:27+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Deng/deng.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+ERR: 模板不存在:./Apps/Home/View/Deng/deng.html
+
+[ 2016-03-06T20:56:45+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Deng/deng.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000670s ]
+ERR: 模板不存在:./Apps/Home/View/Deng/login.html
+
+[ 2016-03-06T20:56:47+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Deng/deng.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+ERR: 模板不存在:./Apps/Home/View/Deng/login.html
+
+[ 2016-03-06T20:57:24+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Deng/deng.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+ERR: 模板不存在:./Apps/Home/View/Deng/deng.html
+
+[ 2016-03-06T20:57:25+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Deng/deng.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000840s ]
+ERR: 模板不存在:./Apps/Home/View/Deng/deng.html
+
+[ 2016-03-06T20:57:26+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Deng/deng.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+ERR: 模板不存在:./Apps/Home/View/Deng/deng.html
+
+[ 2016-03-06T20:57:26+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Deng/deng.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+ERR: 模板不存在:./Apps/Home/View/Deng/deng.html
+
+[ 2016-03-06T20:57:32+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+
+[ 2016-03-06T20:57:35+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Login/deng.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000643s ]
+ERR: 无法加载控制器:Login
+
+[ 2016-03-06T20:59:08+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Login/deng.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+ERR: 无法加载控制器:Login
+
+[ 2016-03-06T20:59:09+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Login/deng.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+ERR: 无法加载控制器:Login
+
+[ 2016-03-06T20:59:33+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+
+[ 2016-03-06T20:59:36+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Deng/deng.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+ERR: 模板不存在:./Apps/Home/View/Deng/deng.html
+
+[ 2016-03-06T21:00:06+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Deng/deng.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+
+[ 2016-03-06T21:01:38+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+
+[ 2016-03-06T21:01:41+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Login/deng.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+ERR: 无法加载控制器:Login
+
+[ 2016-03-06T21:02:20+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Login/deng.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+ERR: 无法加载控制器:Login
+
+[ 2016-03-06T21:02:23+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000627s ]
+
+[ 2016-03-06T21:02:27+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Deng/deng.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000616s ]
+ERR: 模板不存在:./Apps/Home/View/Deng/deng.html
+
+[ 2016-03-06T21:03:48+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Deng/deng.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+
+[ 2016-03-06T21:03:49+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Deng/deng.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+
+[ 2016-03-06T21:09:55+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Deng/deng.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+
+[ 2016-03-06T21:09:58+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Deng/login_check/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+ERR: 非法操作:login_check
+
+[ 2016-03-06T21:10:47+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Deng/login_check/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+ERR: 非法操作:login_check
+
+[ 2016-03-06T21:11:20+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Deng/login_check/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+ERR: 非法操作:login_check
+
+[ 2016-03-06T21:11:25+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Deng/deng.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+
+[ 2016-03-06T21:11:25+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Deng/deng.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+
+[ 2016-03-06T21:11:26+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Deng/deng.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+
+[ 2016-03-06T21:11:27+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Deng/deng_check/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+
+[ 2016-03-06T21:11:49+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Deng/deng_check/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001415s ]
+
+[ 2016-03-06T21:11:49+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+
+[ 2016-03-06T21:12:21+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+
+[ 2016-03-06T21:12:40+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+
+[ 2016-03-06T21:12:42+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000701s ]
+
+[ 2016-03-06T21:13:47+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+
+[ 2016-03-06T21:15:08+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001331s ]
+
+[ 2016-03-06T21:31:20+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000723s ]
+
+[ 2016-03-06T21:31:42+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Index/add/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+ERR: Think\Model:insert方法不存在！
+
+[ 2016-03-06T22:39:40+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Index/add/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000643s ]
+
+[ 2016-03-06T22:39:41+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000781s ]
+
+[ 2016-03-06T22:58:19+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001407s ]
+ERR: Think\Model:look方法不存在！
+
+[ 2016-03-06T22:58:22+08:00 ] 127.0.0.1 /js(object)/3-7/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+ERR: Think\Model:look方法不存在！
+
+[ 2016-03-06T23:05:11+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+ERR: Think\Model:look方法不存在！
+
+[ 2016-03-06T23:19:54+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+ERR: Think\Model:look方法不存在！
+
+[ 2016-03-06T23:19:55+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+ERR: Think\Model:look方法不存在！
+
+[ 2016-03-06T23:20:01+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+ERR: Think\Model:look方法不存在！
+
+[ 2016-03-06T23:20:10+08:00 ] 127.0.0.1 /js(object)/3-7/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000797s ]
+ERR: Think\Model:look方法不存在！
+

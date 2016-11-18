@@ -1,0 +1,221 @@
+[ 2016-02-29T07:49:00+08:00 ] 127.0.0.1 /js(object)/2-28/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+
+[ 2016-02-29T07:49:20+08:00 ] 127.0.0.1 /js(object)/2-28/index.php/Home/Index/add/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+
+[ 2016-02-29T07:49:21+08:00 ] 127.0.0.1 /js(object)/2-28/index.php/Home/Index/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001090s ]
+
+[ 2016-02-29T07:49:23+08:00 ] 127.0.0.1 /js(object)/2-28/index.php/Home/Index/show/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+
+[ 2016-02-29T07:49:30+08:00 ] 127.0.0.1 /js(object)/2-28/index.php/Home/Index/delete/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+
+[ 2016-02-29T07:49:31+08:00 ] 127.0.0.1 /js(object)/2-28/index.php/Home/Index/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+
+[ 2016-02-29T07:49:34+08:00 ] 127.0.0.1 /js(object)/2-28/index.php/Home/Index/show/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+
+[ 2016-02-29T07:49:35+08:00 ] 127.0.0.1 /js(object)/2-28/index.php/Home/Index/show_one/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+
+[ 2016-02-29T07:49:57+08:00 ] 127.0.0.1 /js(object)/2-28/index.php/Home/Index/update/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+
+[ 2016-02-29T07:49:59+08:00 ] 127.0.0.1 /js(object)/2-28/index.php/Home/Index/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000829s ]
+
+[ 2016-02-29T07:50:00+08:00 ] 127.0.0.1 /js(object)/2-28/index.php/Home/Index/show/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+
+[ 2016-02-29T07:50:46+08:00 ] 127.0.0.1 /js(object)/2-28/index.php/Home/Index/show/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+
+[ 2016-02-29T07:50:52+08:00 ] 127.0.0.1 /js(object)/2-28/index.php/Home/Index/show/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+
+[ 2016-02-29T07:50:55+08:00 ] 127.0.0.1 /js(object)/2-28/index.php/Home/Index/show/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+
+[ 2016-02-29T07:50:57+08:00 ] 127.0.0.1 /js(object)/2-28/index.php/Home/Index/show_one/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+
+[ 2016-02-29T07:51:18+08:00 ] 127.0.0.1 /js(object)/2-28/index.php/Home/Index/update/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+
+[ 2016-02-29T07:51:19+08:00 ] 127.0.0.1 /js(object)/2-28/index.php/Home/Index/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+
+[ 2016-02-29T07:51:22+08:00 ] 127.0.0.1 /js(object)/2-28/index.php/Home/Index/show/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+
+[ 2016-02-29T08:08:47+08:00 ] 127.0.0.1 /js(object)/2-28/index.php/Home/Index/show/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+ERR: 1146:Table 'test.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+
+[ 2016-02-29T08:08:51+08:00 ] 127.0.0.1 /js(object)/2-28/index.php/Home/Index/show/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+ERR: 1146:Table 'test.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+
+[ 2016-02-29T08:09:34+08:00 ] 127.0.0.1 /js(object)/2-28/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+
+[ 2016-02-29T08:09:51+08:00 ] 127.0.0.1 /js(object)/2-28/index.php/Home/Index/add/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+
+[ 2016-02-29T08:09:52+08:00 ] 127.0.0.1 /js(object)/2-28/index.php/Home/Index/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+ERR: 1146:Table 'test.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+
+[ 2016-02-29T08:10:20+08:00 ] 127.0.0.1 /js(object)/2-28/index.php/Home/Index/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+
+[ 2016-02-29T08:10:22+08:00 ] 127.0.0.1 /js(object)/2-28/index.php/Home/Index/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+
+[ 2016-02-29T08:10:32+08:00 ] 127.0.0.1 /js(object)/2-28/index.php/Home/Index/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000774s ]
+
+[ 2016-02-29T08:10:33+08:00 ] 127.0.0.1 /js(object)/2-28/index.php/Home/Index/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+
+[ 2016-02-29T08:11:21+08:00 ] 127.0.0.1 /js(object)/2-28/index.php/Home/Index/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+
+[ 2016-02-29T08:11:22+08:00 ] 127.0.0.1 /js(object)/2-28/index.php/Home/Index/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+
+[ 2016-02-29T08:11:22+08:00 ] 127.0.0.1 /js(object)/2-28/index.php/Home/Index/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+
+[ 2016-02-29T08:11:23+08:00 ] 127.0.0.1 /js(object)/2-28/index.php/Home/Index/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+
+[ 2016-02-29T08:12:00+08:00 ] 127.0.0.1 /js(object)/2-28/index.php/Home/Index/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+
+[ 2016-02-29T08:12:02+08:00 ] 127.0.0.1 /js(object)/2-28/index.php/Home/Index/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000807s ]
+
+[ 2016-02-29T08:12:04+08:00 ] 127.0.0.1 /js(object)/2-28/index.php/Home/Index/show/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+
+[ 2016-02-29T08:12:11+08:00 ] 127.0.0.1 /js(object)/2-28/index.php/Home/Index/show/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2016-02-29T08:12:13+08:00 ] 127.0.0.1 /js(object)/2-28/index.php/Home/Index/delete/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+
+[ 2016-02-29T08:12:14+08:00 ] 127.0.0.1 /js(object)/2-28/index.php/Home/Index/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000969s ]
+
+[ 2016-02-29T08:12:17+08:00 ] 127.0.0.1 /js(object)/2-28/index.php/Home/Index/show/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+
+[ 2016-02-29T08:12:18+08:00 ] 127.0.0.1 /js(object)/2-28/index.php/Home/Index/show_one/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+
+[ 2016-02-29T08:12:35+08:00 ] 127.0.0.1 /js(object)/2-28/index.php/Home/Index/update/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+
+[ 2016-02-29T08:12:36+08:00 ] 127.0.0.1 /js(object)/2-28/index.php/Home/Index/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+
+[ 2016-02-29T08:12:39+08:00 ] 127.0.0.1 /js(object)/2-28/index.php/Home/Index/show/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+
+[ 2016-02-29T08:12:41+08:00 ] 127.0.0.1 /js(object)/2-28/index.php/Home/Index/show/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+

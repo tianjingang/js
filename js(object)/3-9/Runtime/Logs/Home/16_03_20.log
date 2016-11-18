@@ -1,0 +1,10 @@
+[ 2016-03-20T15:27:06+08:00 ] 127.0.0.1 /js(object)/3-9/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+
+[ 2016-03-20T15:27:08+08:00 ] 127.0.0.1 /js(object)/3-9/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+

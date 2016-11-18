@@ -1,0 +1,20 @@
+<form action="__URL__/show/" METHOD="post" enctype="multipart/form-data">
+    <table border="1">
+        <tr>
+            <td>图片1</td>
+            <td>图片2</td>
+            <td>操作</td>
+        </tr>
+        <volist name="arr" id="val">
+        <tr>
+            <td><img src="__ROOT__{$val.photo1}" width="80" height="80"/></td>
+            <td><img src="__ROOT__{$val.photo2}"width="80" height="80"/></td>
+            <td>
+                <a href="__URL__/delete/id/{$val.id}">删除</a>
+                <a href="__URL__/show_one/id/{$val.id}">修改</a>
+            </td>
+        </tr>
+            </volist>
+    </table>
+</form>
+{$show}

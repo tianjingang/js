@@ -1,0 +1,32 @@
+<center><font color="aqua">欢迎{$Think.session.username}登陆</font>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="{:U('Index/find')}"><font color="red">您有{$num}条信息</font></a>
+    <form action="__URL__/send/" method="post">
+        <table>
+            <tr>
+                <td>接收人</td>
+                <td>
+                    <volist name="User" id="val">
+                        <input type="checkbox" name="friend[]" value="{$val.id}"/>
+                        {$val.username}
+                    </volist>
+                </td>
+            </tr>
+            <tr>
+                <a href="{:U('Login/login_out')}"><font color="red">退出</font></a>
+            </tr>
+            <tr>
+                <td>发送内容</td>
+                <td><textarea rows="5" cols="30" name="message"></textarea></td>
+            </tr>
+            <tr>
+                <td>发送人</td>
+                <td>{$Think.session.username}</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><input type="submit" value="发送"/></td>
+            </tr>
+        </table>
+    </form>
+
+</center>

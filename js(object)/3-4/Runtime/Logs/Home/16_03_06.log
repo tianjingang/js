@@ -1,0 +1,1218 @@
+[ 2016-03-06T14:57:53+08:00 ] 127.0.0.1 /js(object)/3-4/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001912s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002623s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000136s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000342s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026396s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026698s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006425s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006667s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.012848s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013045s ]
+
+[ 2016-03-06T14:58:10+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/login_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000789s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000915s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+SQL: SHOW COLUMNS FROM `deng` [ RunTime:0.0045s ]
+SQL: SHOW COLUMNS FROM `deng` [ RunTime:0.0057s ]
+SQL: SELECT * FROM `deng` WHERE `username` = '田金刚' LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2016-03-06T14:58:15+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/login_in.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001643s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000180s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011389s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011581s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000529s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000622s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001111s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001285s ]
+
+[ 2016-03-06T15:02:10+08:00 ] 127.0.0.1 /js(object)/3-4/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001461s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000118s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005702s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005798s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000327s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000375s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000572s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000634s ]
+
+[ 2016-03-06T15:02:18+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/login_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000954s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001085s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+SQL: SHOW COLUMNS FROM `deng` [ RunTime:0.0411s ]
+SQL: SHOW COLUMNS FROM `deng` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `deng` WHERE `username` = '田金刚' LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2016-03-06T15:02:24+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/login_in.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000730s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000928s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001060s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009058s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009156s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000309s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000454s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000522s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000586s ]
+
+[ 2016-03-06T15:02:29+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/login_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000724s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+SQL: SHOW COLUMNS FROM `deng` [ RunTime:0.0057s ]
+SQL: SHOW COLUMNS FROM `deng` [ RunTime:0.0057s ]
+SQL: SELECT * FROM `deng` WHERE `username` = '田金刚' LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2016-03-06T15:02:38+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/login_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000790s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000921s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+SQL: SHOW COLUMNS FROM `deng` [ RunTime:0.0065s ]
+SQL: SHOW COLUMNS FROM `deng` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `deng` WHERE `username` = '田金刚' LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2016-03-06T15:02:44+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/login_in.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000803s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000877s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000107s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006445s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006520s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000208s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000251s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000404s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000452s ]
+
+[ 2016-03-06T15:02:57+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/add/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000674s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000936s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001068s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\web\apache\htdocs\js(object)\3-4\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\web\apache\htdocs\js(object)\3-4\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\web\apache\htdocs\js(object)\3-4\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::add() should be compatible with that of Think\Model::add() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::delete() should be compatible with that of Think\Model::delete() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::select() should be compatible with that of Think\Model::select() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::find() should be compatible with that of Think\Model::find() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0219s ]
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0093s ]
+SQL: INSERT INTO `photo` (`sender`,`photo1`,`photo2`,`photo3`) VALUES ('66666','./Public/upload/2016-03-06/56dbd6217482a.jpg','./Public/upload/2016-03-06/56dbd621763d0.jpg','./Public/upload/2016-03-06/56dbd62177892.jpg') [ RunTime:0.0349s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000093s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000237s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022828s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022967s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000454s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000568s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000969s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001079s ]
+
+[ 2016-03-06T15:02:58+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000659s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001102s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001244s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0087s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `photo` LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT * FROM `photo` LIMIT 0,3   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000090s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000205s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033477s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033698s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000581s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000728s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000917s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001010s ]
+
+[ 2016-03-06T15:03:01+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000945s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001093s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0042s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `photo` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `photo` LIMIT 0,3   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000130s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007146s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007248s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000427s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000602s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000666s ]
+
+[ 2016-03-06T15:03:03+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/show/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000604s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000661s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0041s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `photo` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `photo` LIMIT 9,3   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000114s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007183s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007272s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000306s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000371s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000640s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000698s ]
+
+[ 2016-03-06T15:03:07+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/delete/id/13
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000870s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000995s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::add() should be compatible with that of Think\Model::add() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::delete() should be compatible with that of Think\Model::delete() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::select() should be compatible with that of Think\Model::select() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::find() should be compatible with that of Think\Model::find() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0053s ]
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0049s ]
+SQL: DELETE FROM `photo` WHERE ( id='13' ) [ RunTime:0.0519s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000125s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007165s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007270s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000596s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000679s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000892s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000967s ]
+
+[ 2016-03-06T15:03:08+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/index/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000948s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001052s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0051s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `photo` LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT * FROM `photo` LIMIT 0,3   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000112s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007008s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007086s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000443s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000620s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000676s ]
+
+[ 2016-03-06T15:03:10+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/show/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000593s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000660s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0053s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `photo` LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT * FROM `photo` LIMIT 9,3   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000180s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010332s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010444s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000574s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000669s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000997s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001091s ]
+
+[ 2016-03-06T15:03:12+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/show_one/id/15
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000826s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::add() should be compatible with that of Think\Model::add() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::delete() should be compatible with that of Think\Model::delete() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::select() should be compatible with that of Think\Model::select() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::find() should be compatible with that of Think\Model::find() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0049s ]
+NOTIC: [2] Missing argument 1 for Home\Model\PhotoModel::find(), called in D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php on line 80 and defined D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 11 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0049s ]
+NOTIC: [8] Undefined variable: where D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 12 行.
+SQL: SELECT * FROM `photo` LIMIT 1   [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000117s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038741s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038846s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000455s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000584s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000635s ]
+
+[ 2016-03-06T15:03:24+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/update/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000874s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000975s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\web\apache\htdocs\js(object)\3-4\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\web\apache\htdocs\js(object)\3-4\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\web\apache\htdocs\js(object)\3-4\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::add() should be compatible with that of Think\Model::add() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::delete() should be compatible with that of Think\Model::delete() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::select() should be compatible with that of Think\Model::select() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::find() should be compatible with that of Think\Model::find() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0051s ]
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0056s ]
+SQL: UPDATE `photo` SET `id`='2',`photo1`='/Public/upload/2016-03-06/56dbd63c7a78b.jpg',`photo2`='/Public/upload/2016-03-06/56dbd63c7b6d1.jpg',`photo3`='/Public/upload/2016-03-06/56dbd63c7c574.jpg' WHERE ( id='2' ) [ RunTime:0.0322s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000138s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006628s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006730s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000611s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000683s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001341s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001466s ]
+
+[ 2016-03-06T15:03:25+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001639s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0049s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `photo` LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT * FROM `photo` LIMIT 0,3   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007997s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008095s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000472s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000543s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000747s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000808s ]
+
+[ 2016-03-06T15:03:27+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/show/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001483s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0044s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `photo` LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT * FROM `photo` LIMIT 9,3   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000148s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008615s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008727s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000453s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000502s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000858s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000911s ]
+
+[ 2016-03-06T15:03:32+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/show/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000613s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0047s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `photo` LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT * FROM `photo` LIMIT 9,3   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000115s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007988s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008067s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000384s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000642s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000695s ]
+
+[ 2016-03-06T15:03:36+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/show/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001131s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0046s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `photo` LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT * FROM `photo` LIMIT 3,3   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006730s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006806s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000403s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000455s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000589s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000642s ]
+
+[ 2016-03-06T15:03:39+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/show/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000808s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000639s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000732s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0120s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `photo` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `photo` LIMIT 9,3   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006621s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006726s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000412s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000551s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000598s ]
+
+[ 2016-03-06T15:03:46+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/show/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000802s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000657s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000736s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0043s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `photo` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `photo` LIMIT 3,3   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000119s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008103s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008181s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000442s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000644s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000702s ]
+
+[ 2016-03-06T15:03:48+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/show/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000912s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000803s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000912s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0056s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `photo` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `photo` LIMIT 9,3   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000137s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010035s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010130s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000546s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000618s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000646s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000703s ]
+
+[ 2016-03-06T15:05:08+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000774s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000677s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000800s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0054s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `photo` LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT * FROM `photo` LIMIT 0,3   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000114s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007223s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007337s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000414s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000652s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000706s ]
+
+[ 2016-03-06T15:24:58+08:00 ] 127.0.0.1 /js(object)/3-4/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001071s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000766s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000871s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000140s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006534s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006606s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000416s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000631s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000685s ]
+
+[ 2016-03-06T15:25:00+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/login_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000576s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+SQL: SHOW COLUMNS FROM `deng` [ RunTime:0.0442s ]
+SQL: SHOW COLUMNS FROM `deng` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `deng` WHERE `username` = '刘鹏飞' LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2016-03-06T15:25:36+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/login_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000754s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000837s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+SQL: SHOW COLUMNS FROM `deng` [ RunTime:0.0069s ]
+SQL: SHOW COLUMNS FROM `deng` [ RunTime:0.0076s ]
+SQL: SELECT * FROM `deng` WHERE `username` = '李明' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-03-06T15:25:41+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/login_in.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000765s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000874s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000236s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010530s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010646s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000422s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000513s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000799s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000902s ]
+
+[ 2016-03-06T15:26:00+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/add/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000546s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\web\apache\htdocs\js(object)\3-4\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\web\apache\htdocs\js(object)\3-4\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\web\apache\htdocs\js(object)\3-4\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::add() should be compatible with that of Think\Model::add() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::delete() should be compatible with that of Think\Model::delete() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::select() should be compatible with that of Think\Model::select() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::find() should be compatible with that of Think\Model::find() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0052s ]
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0060s ]
+SQL: INSERT INTO `photo` (`sender`,`photo1`,`photo2`,`photo3`) VALUES ('刘鹏飞','./Public/upload/2016-03-06/56dbdb880f509.jpg','./Public/upload/2016-03-06/56dbdb88100f7.jpg','./Public/upload/2016-03-06/56dbdb8810da8.jpg') [ RunTime:0.0446s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000192s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007850s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007959s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000623s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000707s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000736s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000796s ]
+
+[ 2016-03-06T15:26:01+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000820s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000903s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0044s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `photo` LIMIT 1   [ RunTime:0.0016s ]
+SQL: SELECT * FROM `photo` LIMIT 0,3   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000117s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007742s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007825s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000454s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000516s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000711s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000784s ]
+
+[ 2016-03-06T15:26:03+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/show/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001606s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0041s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `photo` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `photo` LIMIT 9,3   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000122s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007913s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008014s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000427s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000488s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000786s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000844s ]
+
+[ 2016-03-06T15:26:07+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/show_one/id/16
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001436s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::add() should be compatible with that of Think\Model::add() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::delete() should be compatible with that of Think\Model::delete() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::select() should be compatible with that of Think\Model::select() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::find() should be compatible with that of Think\Model::find() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0046s ]
+NOTIC: [2] Missing argument 1 for Home\Model\PhotoModel::find(), called in D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php on line 80 and defined D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 11 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0064s ]
+NOTIC: [8] Undefined variable: where D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 12 行.
+SQL: SELECT * FROM `photo` LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000141s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016128s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016232s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000441s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000633s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000697s ]
+
+[ 2016-03-06T15:26:14+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/show/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000590s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0182s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `photo` LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT * FROM `photo` LIMIT 6,3   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000137s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008140s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008254s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000358s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000590s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000663s ]
+
+[ 2016-03-06T15:26:16+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/show/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000878s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0245s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `photo` LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT * FROM `photo` LIMIT 9,3   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000121s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008180s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008265s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000316s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000375s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000604s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000656s ]
+
+[ 2016-03-06T15:26:18+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/show_one/id/16
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000583s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000917s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001042s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::add() should be compatible with that of Think\Model::add() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::delete() should be compatible with that of Think\Model::delete() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::select() should be compatible with that of Think\Model::select() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::find() should be compatible with that of Think\Model::find() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0047s ]
+NOTIC: [2] Missing argument 1 for Home\Model\PhotoModel::find(), called in D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php on line 80 and defined D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 11 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0067s ]
+NOTIC: [8] Undefined variable: where D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 12 行.
+SQL: SELECT * FROM `photo` LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000112s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005277s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005353s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000468s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000523s ]
+
+[ 2016-03-06T15:26:45+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/show_one/id/16
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000462s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000522s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::add() should be compatible with that of Think\Model::add() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::delete() should be compatible with that of Think\Model::delete() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::select() should be compatible with that of Think\Model::select() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::find() should be compatible with that of Think\Model::find() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0040s ]
+NOTIC: [2] Missing argument 1 for Home\Model\PhotoModel::find(), called in D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php on line 80 and defined D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 11 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0043s ]
+NOTIC: [8] Undefined variable: where D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 12 行.
+SQL: SELECT * FROM `photo` LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000142s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007410s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007504s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000433s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000572s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000646s ]
+
+[ 2016-03-06T15:26:46+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/show_one/id/16
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000491s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000558s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::add() should be compatible with that of Think\Model::add() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::delete() should be compatible with that of Think\Model::delete() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::select() should be compatible with that of Think\Model::select() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::find() should be compatible with that of Think\Model::find() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0047s ]
+NOTIC: [2] Missing argument 1 for Home\Model\PhotoModel::find(), called in D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php on line 80 and defined D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 11 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0051s ]
+NOTIC: [8] Undefined variable: where D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 12 行.
+SQL: SELECT * FROM `photo` LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000113s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005425s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005526s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000225s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000457s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000512s ]
+
+[ 2016-03-06T15:27:02+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/show/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000784s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000910s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0059s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `photo` LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT * FROM `photo` LIMIT 0,3   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000125s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009912s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010008s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000266s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000519s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000573s ]
+
+[ 2016-03-06T15:27:07+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/show_one/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000559s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::add() should be compatible with that of Think\Model::add() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::delete() should be compatible with that of Think\Model::delete() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::select() should be compatible with that of Think\Model::select() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::find() should be compatible with that of Think\Model::find() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0040s ]
+NOTIC: [2] Missing argument 1 for Home\Model\PhotoModel::find(), called in D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php on line 80 and defined D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 11 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0046s ]
+NOTIC: [8] Undefined variable: where D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 12 行.
+SQL: SELECT * FROM `photo` LIMIT 1   [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000118s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005514s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005586s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000456s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000508s ]
+
+[ 2016-03-06T15:28:46+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/show_one/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000586s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000650s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::add() should be compatible with that of Think\Model::add() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::delete() should be compatible with that of Think\Model::delete() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::select() should be compatible with that of Think\Model::select() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0042s ]
+NOTIC: [2] Missing argument 1 for Home\Model\PhotoModel::look(), called in D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php on line 80 and defined D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 11 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0047s ]
+NOTIC: [8] Undefined variable: where D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 12 行.
+SQL: SELECT * FROM `photo` LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005987s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006062s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000310s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000362s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000529s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000583s ]
+
+[ 2016-03-06T15:28:50+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/show_one/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000549s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000627s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::add() should be compatible with that of Think\Model::add() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::delete() should be compatible with that of Think\Model::delete() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::select() should be compatible with that of Think\Model::select() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0049s ]
+NOTIC: [2] Missing argument 1 for Home\Model\PhotoModel::look(), called in D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php on line 80 and defined D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 11 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0064s ]
+NOTIC: [8] Undefined variable: where D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 12 行.
+SQL: SELECT * FROM `photo` LIMIT 1   [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006318s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006440s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000421s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000843s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000933s ]
+
+[ 2016-03-06T15:30:04+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/show_one/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000781s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::add() should be compatible with that of Think\Model::add() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::delete() should be compatible with that of Think\Model::delete() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::select() should be compatible with that of Think\Model::select() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0051s ]
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `photo` WHERE ( id='3' ) LIMIT 1   [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005842s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005923s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000495s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000552s ]
+
+[ 2016-03-06T15:30:22+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/update/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000934s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001053s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\web\apache\htdocs\js(object)\3-4\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\web\apache\htdocs\js(object)\3-4\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\web\apache\htdocs\js(object)\3-4\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::add() should be compatible with that of Think\Model::add() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::delete() should be compatible with that of Think\Model::delete() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::select() should be compatible with that of Think\Model::select() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0043s ]
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0052s ]
+SQL: UPDATE `photo` SET `id`='3',`photo1`='/Public/upload/2016-03-06/56dbdc8e8efe9.jpg',`photo2`='/Public/upload/2016-03-06/56dbdc8e8f863.jpg',`photo3`='/Public/upload/2016-03-06/56dbdc8e90117.jpg' WHERE ( id='3' ) [ RunTime:0.0520s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000133s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007562s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007661s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000840s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000903s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001106s ]
+
+[ 2016-03-06T15:30:23+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000837s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001615s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0057s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `photo` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `photo` LIMIT 0,3   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000124s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009358s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009471s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000839s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000909s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001179s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001243s ]
+
+[ 2016-03-06T15:30:31+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/show/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000778s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0045s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `photo` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `photo` LIMIT 9,3   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000124s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007365s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007444s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000445s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000503s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000643s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000706s ]
+
+[ 2016-03-06T15:30:34+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/show_one/id/16
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000659s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001011s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001133s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::add() should be compatible with that of Think\Model::add() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::delete() should be compatible with that of Think\Model::delete() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::select() should be compatible with that of Think\Model::select() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0063s ]
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `photo` WHERE ( id='16' ) LIMIT 1   [ RunTime:0.0011s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000174s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009827s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009972s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000626s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000719s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000948s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001047s ]
+
+[ 2016-03-06T15:30:40+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/update/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001161s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001292s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\web\apache\htdocs\js(object)\3-4\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::add() should be compatible with that of Think\Model::add() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::delete() should be compatible with that of Think\Model::delete() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Home\Model\PhotoModel::select() should be compatible with that of Think\Model::select() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Model\PhotoModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0069s ]
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0063s ]
+SQL: UPDATE `photo` SET `id`='16',`photo3`='/Public/upload/2016-03-06/56dbdca04e9a0.jpg' WHERE ( id='16' ) [ RunTime:0.0345s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000146s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007936s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008049s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000603s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000703s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000685s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000762s ]
+
+[ 2016-03-06T15:30:41+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000904s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001011s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0042s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `photo` LIMIT 1   [ RunTime:0.0017s ]
+SQL: SELECT * FROM `photo` LIMIT 0,3   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000121s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010816s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010963s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000553s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000664s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000999s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001088s ]
+
+[ 2016-03-06T15:30:44+08:00 ] 127.0.0.1 /js(object)/3-4/index.php/Home/Index/show/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000966s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001081s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with that of Think\Controller::show() D:\web\apache\htdocs\js(object)\3-4\Apps\Home\Controller\IndexController.class.php 第 113 行.
+SQL: SHOW COLUMNS FROM `photo` [ RunTime:0.0045s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `photo` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `photo` LIMIT 9,3   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000126s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008518s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008628s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000403s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000467s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000734s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000805s ]
+

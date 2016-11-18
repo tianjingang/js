@@ -1,0 +1,188 @@
+[ 2016-03-06T12:23:55+08:00 ] 127.0.0.1 /js(object)/3-5/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000670s ]
+
+[ 2016-03-06T12:26:49+08:00 ] 127.0.0.1 /js(object)/3-5/index.php/Home/Index/login/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+
+[ 2016-03-06T12:26:50+08:00 ] 127.0.0.1 /js(object)/3-5/index.php/Home/Index/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000670s ]
+
+[ 2016-03-06T12:26:57+08:00 ] 127.0.0.1 /js(object)/3-5/index.php/Home/Index/user/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+
+[ 2016-03-06T12:27:02+08:00 ] 127.0.0.1 /js(object)/3-5/index.php/Home/Index/usershow/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+ERR: 模板不存在:./Apps/Home/View/Index/usershow.html
+
+[ 2016-03-06T12:27:23+08:00 ] 127.0.0.1 /js(object)/3-5/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+
+[ 2016-03-06T12:27:32+08:00 ] 127.0.0.1 /js(object)/3-5/index.php/Home/Index/login/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001002s ]
+
+[ 2016-03-06T12:27:33+08:00 ] 127.0.0.1 /js(object)/3-5/index.php/Home/Index/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+
+[ 2016-03-06T12:27:41+08:00 ] 127.0.0.1 /js(object)/3-5/index.php/Home/Index/message_show/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+
+[ 2016-03-06T12:28:06+08:00 ] 127.0.0.1 /js(object)/3-5/index.php/Home/Index/message_add/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+
+[ 2016-03-06T12:29:42+08:00 ] 127.0.0.1 /js(object)/3-5/index.php/Home/Index/message_add/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+
+[ 2016-03-06T12:29:43+08:00 ] 127.0.0.1 /js(object)/3-5/index.php/Home/Index/message_show/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001070s ]
+
+[ 2016-03-06T12:30:43+08:00 ] 127.0.0.1 /js(object)/3-5/index.php/Home/Index/out/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000743s ]
+ERR: 模板不存在:./Apps/Home/View/Index/out.html
+
+[ 2016-03-06T12:32:05+08:00 ] 127.0.0.1 /js(object)/3-5/index.php/Home/Index/out/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+
+[ 2016-03-06T12:32:16+08:00 ] 127.0.0.1 /js(object)/3-5/index.php/Home/Index/login/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+
+[ 2016-03-06T12:32:18+08:00 ] 127.0.0.1 /js(object)/3-5/index.php/Home/Index/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000820s ]
+
+[ 2016-03-06T12:32:22+08:00 ] 127.0.0.1 /js(object)/3-5/index.php/Home/Index/message_look/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000644s ]
+
+[ 2016-03-06T12:33:26+08:00 ] 127.0.0.1 /js(object)/3-5/index.php/Home/Index/photoshow/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+
+[ 2016-03-06T12:33:28+08:00 ] 127.0.0.1 /js(object)/3-5/index.php/Home/Index/show/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+
+[ 2016-03-06T12:33:31+08:00 ] 127.0.0.1 /js(object)/3-5/index.php/Home/Index/photoshow_upload/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+
+[ 2016-03-06T12:34:57+08:00 ] 127.0.0.1 /js(object)/3-5/index.php/Home/Index/photoshow_upload/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+
+[ 2016-03-06T12:34:58+08:00 ] 127.0.0.1 /js(object)/3-5/index.php/Home/Index/photoshow_upload/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+
+[ 2016-03-06T12:35:01+08:00 ] 127.0.0.1 /js(object)/3-5/index.php/Home/Index/photoupload/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000918s ]
+
+[ 2016-03-06T12:35:02+08:00 ] 127.0.0.1 /js(object)/3-5/index.php/Home/Index/photoshow.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+
+[ 2016-03-06T12:36:40+08:00 ] 127.0.0.1 /js(object)/3-5/index.php/Home/Index/photoshow.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+
+[ 2016-03-06T12:36:41+08:00 ] 127.0.0.1 /js(object)/3-5/index.php/Home/Index/photoshow.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+
+[ 2016-03-06T12:36:42+08:00 ] 127.0.0.1 /js(object)/3-5/index.php/Home/Index/photoshow.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+
+[ 2016-03-06T12:38:04+08:00 ] 127.0.0.1 /js(object)/3-5/index.php/Home/Index/show/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000617s ]
+
+[ 2016-03-06T12:38:07+08:00 ] 127.0.0.1 /js(object)/3-5/index.php/Home/Index/user/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+
+[ 2016-03-06T12:38:17+08:00 ] 127.0.0.1 /js(object)/3-5/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+
+[ 2016-03-06T12:38:26+08:00 ] 127.0.0.1 /js(object)/3-5/index.php/Home/Index/login/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+
+[ 2016-03-06T12:38:27+08:00 ] 127.0.0.1 /js(object)/3-5/index.php/Home/Index/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001049s ]
+
+[ 2016-03-06T12:38:36+08:00 ] 127.0.0.1 /js(object)/3-5/index.php/Home/Index/user/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2016-03-06T12:38:39+08:00 ] 127.0.0.1 /js(object)/3-5/index.php/Home/Index/usershow/id/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+ERR: 模板不存在:./Apps/Home/View/Index/usershow.html
+
+[ 2016-03-06T19:51:29+08:00 ] 127.0.0.1 /js(object)/3-5/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+
+[ 2016-03-06T19:51:52+08:00 ] 127.0.0.1 /js(object)/3-5/index.php/Home/Index/login/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+
+[ 2016-03-06T19:51:53+08:00 ] 127.0.0.1 /js(object)/3-5/index.php/Home/Index/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000643s ]
+

@@ -1,0 +1,20 @@
+[ 2016-05-11T23:01:33+08:00 ] 127.0.0.1 /js(object)/2-26/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001875s ]
+
+[ 2016-05-11T23:01:48+08:00 ] 127.0.0.1 /js(object)/2-26/index.php/Home/Index/add/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000879s ]
+
+[ 2016-05-11T23:01:49+08:00 ] 127.0.0.1 /js(object)/2-26/index.php/Home/Index/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001433s ]
+
+[ 2016-05-11T23:01:52+08:00 ] 127.0.0.1 /js(object)/2-26/index.php/Home/Index/show/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001046s ]
+

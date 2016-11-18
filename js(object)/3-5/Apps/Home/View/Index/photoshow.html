@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>展示</title>
+</head>
+<body>
+<table border="1">
+    <tr>
+        <td>编号</td>
+        <td>图片名字</td>
+        <td>图片</td>
+        <td>操作</td>
+    </tr>
+    <volist name="arr" id="val">
+    <tr>
+        <td>{$val.id}</td>
+        <td>{$val.photoname}</td>
+        <td><img src="__ROOT__{$val.photopath}" alt="" width="200"/></td>
+        <td><a href="__URL__/photodel/id/{$val.id}">删除</a></td>
+    </tr>
+        <tr>
+            <td>{$page}</td>
+        </tr>
+        </volist>
+</table>
+<p><a href="__URL__/show/">返回主页面</a></p>
+</body>
+</html>

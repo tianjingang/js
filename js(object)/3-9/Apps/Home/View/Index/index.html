@@ -1,0 +1,29 @@
+<center>
+    <p>欢迎{$Think.session.username}登录&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="__URL__/find/">您有{$num}条信息</a></p>
+    <a href="__URL__/login_out/">退出</a>
+
+    <form action="__URL__/add/" method="post">
+        <table>
+            <tr>
+                <td>接收人</td>
+                <td>
+                    <volist name="User" id="val">
+                        <input type="checkbox" name="friend[]" value="{$val.id}"/>{$val.username}
+                        </volist>
+                </td>
+            </tr>
+            <tr>
+                <td>发送内容</td>
+                <td><textarea rows="5" cols="30" name="message"></textarea></td>
+            </tr>
+            <tr>
+                <td>发送人</td>
+                <td>{$Think.session.username}</td>
+            </tr>
+            <tr>
+                <td><input type="submit" value="发送"/></td>
+                <td></td>
+            </tr>
+        </table>
+    </form>
+</center>

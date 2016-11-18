@@ -1,0 +1,128 @@
+[ 2016-03-08T08:42:42+08:00 ] 127.0.0.1 /js(object)/yuekao/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000140s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000722s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000110s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005502s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005577s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000307s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000543s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000599s ]
+
+[ 2016-03-08T09:39:35+08:00 ] 127.0.0.1 /js(object)/yuekao/index.php/Home/Index/index.html
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''1 )' at line 1
+
+[ 2016-03-08T09:40:23+08:00 ] 127.0.0.1 /js(object)/yuekao/index.php/Home/Index/index.html
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''1 )' at line 1
+
+[ 2016-03-08T09:40:24+08:00 ] 127.0.0.1 /js(object)/yuekao/index.php/Home/Index/index.html
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''1 )' at line 1
+
+[ 2016-03-08T09:57:22+08:00 ] 127.0.0.1 /js(object)/yuekao/index.php/Home/Index/index.html
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rid' in 'where clause'
+
+[ 2016-03-08T09:58:22+08:00 ] 127.0.0.1 /js(object)/yuekao/index.php/Home/Index/index.html
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rid' in 'where clause'
+
+[ 2016-03-08T10:00:23+08:00 ] 127.0.0.1 /js(object)/yuekao/index.php/Home/Index/index.html
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rid' in 'where clause'
+
+[ 2016-03-08T10:00:44+08:00 ] 127.0.0.1 /js(object)/yuekao/index.php/Home/Index/index.html
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rid' in 'where clause'
+
+[ 2016-03-08T10:00:45+08:00 ] 127.0.0.1 /js(object)/yuekao/index.php/Home/Index/index.html
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rid' in 'where clause'
+
+[ 2016-03-08T10:00:57+08:00 ] 127.0.0.1 /js(object)/yuekao/index.php/Home/Index/index.html
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rid' in 'where clause'
+
+[ 2016-03-08T10:01:05+08:00 ] 127.0.0.1 /js(object)/yuekao/index.php/Home/Index/index.html
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rid' in 'where clause'
+
+[ 2016-03-08T10:07:31+08:00 ] 127.0.0.1 /js(object)/yuekao/index.php/Home/Index/index.html
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=>0 )' at line 1
+
+[ 2016-03-08T10:17:46+08:00 ] 127.0.0.1 /js(object)/yuekao/index.php/Home/Index/index.html
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'on Index.rid=Login.id,left  WHERE `rid` = 2 AND `statue` = 0' at line 1
+
+[ 2016-03-08T10:17:49+08:00 ] 127.0.0.1 /js(object)/yuekao/index.php/Home/Index/index.html
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'on Index.rid=Login.id,left  WHERE `rid` = 2 AND `statue` = 0' at line 1
+
+[ 2016-03-08T10:24:00+08:00 ] 127.0.0.1 /js(object)/yuekao/index.php/Home/Index/index.html
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rid' in 'where clause'
+
+[ 2016-03-08T10:25:03+08:00 ] 127.0.0.1 /js(object)/yuekao/index.php/Home/Index/index.html
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rid' in 'where clause'
+
+[ 2016-03-08T10:25:04+08:00 ] 127.0.0.1 /js(object)/yuekao/index.php/Home/Index/index.html
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rid' in 'where clause'
+
+[ 2016-03-08T10:26:27+08:00 ] 127.0.0.1 /js(object)/yuekao/index.php/Home/Index/index.html
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rid' in 'where clause'
+
+[ 2016-03-08T10:26:27+08:00 ] 127.0.0.1 /js(object)/yuekao/index.php/Home/Index/index.html
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rid' in 'where clause'
+
+[ 2016-03-08T10:26:34+08:00 ] 127.0.0.1 /js(object)/yuekao/index.php/Home/Index/index.html
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rid' in 'where clause'
+
+[ 2016-03-08T10:33:28+08:00 ] 127.0.0.1 /js(object)/yuekao/index.php/Home/Index/index.html
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rid' in 'where clause'
+
+[ 2016-03-08T10:36:10+08:00 ] 127.0.0.1 /js(object)/yuekao/index.php/Home/Index/index.html
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rid' in 'where clause'
+
+[ 2016-03-08T10:36:28+08:00 ] 127.0.0.1 /js(object)/yuekao/index.php/Home/Index/index.html
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rid' in 'where clause'
+
+[ 2016-03-08T10:36:29+08:00 ] 127.0.0.1 /js(object)/yuekao/index.php/Home/Index/index.html
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rid' in 'where clause'
+
+[ 2016-03-08T10:36:38+08:00 ] 127.0.0.1 /js(object)/yuekao/index.php/Home/Index/index.html
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rid' in 'where clause'
+
+[ 2016-03-08T10:43:18+08:00 ] 127.0.0.1 /js(object)/yuekao/index.php/Home/Index/index.html
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rid' in 'where clause'
+
+[ 2016-03-08T10:43:47+08:00 ] 127.0.0.1 /js(object)/yuekao/index.php/Home/Index/index.html
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rid' in 'where clause'
+
+[ 2016-03-08T10:43:54+08:00 ] 127.0.0.1 /js(object)/yuekao/index.php/Home/Index/index.html
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rid' in 'where clause'
+
+[ 2016-03-08T10:44:50+08:00 ] 127.0.0.1 /js(object)/yuekao/index.php/Home/Index/index.html
+ERR: Think\Model:shows方法不存在！
+
+[ 2016-03-08T12:00:00+08:00 ] 127.0.0.1 /js(object)/yuekao/index.php
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'usename' in 'where clause'
+
+[ 2016-03-08T13:35:26+08:00 ] 127.0.0.1 /js(object)/yuekao/index.php/Home/Index/index.html
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rid' in 'where clause'
+
+[ 2016-03-08T13:37:20+08:00 ] 127.0.0.1 /js(object)/yuekao/index.php/Home/Index/index.html
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rid' in 'where clause'
+
+[ 2016-03-08T13:37:22+08:00 ] 127.0.0.1 /js(object)/yuekao/index.php/Home/Index/index.html
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rid' in 'where clause'
+
+[ 2016-03-08T13:37:31+08:00 ] 127.0.0.1 /js(object)/yuekao/index.php/Home/Index/index.html
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rid' in 'where clause'
+
+[ 2016-03-08T13:39:44+08:00 ] 127.0.0.1 /js(object)/yuekao/index.php/Home/Index/index.html
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'friend' in 'where clause'
+
+[ 2016-03-08T13:43:57+08:00 ] 127.0.0.1 /js(object)/yuekao/index.php/Home/Index/index.html
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '!='1' )' at line 1
+
+[ 2016-03-08T13:44:12+08:00 ] 127.0.0.1 /js(object)/yuekao/index.php/Home/Index/index.html
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '!='1' )' at line 1
+
